@@ -125,5 +125,5 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
 </pre>
     
 ### 실행결과
-![사진]("C:\Users\w23993\Desktop\Scaffold사진.PNG")
+![](https://media.vlpt.us/images/hello_hidi/post/a4ba2f0a-c119-4a00-bb18-449e6ad0428a/Scaffold%EC%82%AC%EC%A7%84.PNG)
 
