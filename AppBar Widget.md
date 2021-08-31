@@ -60,5 +60,7 @@
   - **bottom** : 앱 바의 맨 아래를 나타냄 => final PreferredSizeWidget? bottom;
       1. 일반적으로 탭 표시줄로 사용
       2. PreferredSizeWidget을 구현하는 위젯만 사용 가능.
+  - **backgroundColor** : 앱바의 배경 색 => final Color? backgroundColor;
+  - **elevation** : 앱 바 아래의 그림자 크기를 제어 => final double? elevation;
   
   
